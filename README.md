@@ -14,3 +14,9 @@ When application starts, it will
 ## What you will see after application starts
 - A list of folders with the days of month like Work-2022-06
 - All file from your Desktop/Downloads/Documents folders will be moved to the days folder
+- So you can easily find all files from the past month at related folders
+
+## Warnings
+- If you have some organized items like photos, videos, music, etc. this app can move them
+- Start app on your own risk
+- Check that you have Dropbox account installed before start
